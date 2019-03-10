@@ -39,7 +39,7 @@ def annotate_pic(nam):
 
 
 
-subscription_key = '1fb0aa3a3a5c4b53a7a81b5edb83aa7a'
+subscription_key = 'insert key here'
 assert subscription_key
 face_api_url = 'https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect'
 image_url = 'https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/22519134_1875995839096291_5085130781646904423_n.jpg?_nc_cat=109&_nc_ht=scontent-lht6-1.xx&oh=8f436a6ab66fea0e9b43a17f9874b1da&oe=5D27A0F4'
